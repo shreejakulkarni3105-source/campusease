@@ -1,0 +1,9 @@
+
+{
+  "name": "CampusEase",
+  "description": "Find and reserve empty classrooms for study sessions on campus in seconds.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
