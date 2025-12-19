@@ -16,3 +16,11 @@ quickly find available classrooms and study spaces on campus.
 1. Install dependencies:
    ```bash
    npm install
+   
+2. Start the development server:
+
+   npm run dev 
+
+3. Open your browser and visit:
+
+   http://localhost:5173
